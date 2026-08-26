@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GraphicsDesign",
+			"Path": "..\\Source\\GraphicsDesign.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GraphicsDesignEditor",
+			"Path": "..\\Source\\GraphicsDesignEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

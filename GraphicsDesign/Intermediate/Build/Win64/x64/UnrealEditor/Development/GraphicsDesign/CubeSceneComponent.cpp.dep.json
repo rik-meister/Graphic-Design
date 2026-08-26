@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\s258033\\documents\\unreal projects\\graphicsdesign\\source\\graphicsdesign\\cubescenecomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\s258033\\documents\\unreal projects\\graphicsdesign\\intermediate\\build\\win64\\x64\\graphicsdesigneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\s258033\\documents\\unreal projects\\graphicsdesign\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphicsdesign\\definitions.graphicsdesign.h",
+            "c:\\users\\s258033\\documents\\unreal projects\\graphicsdesign\\source\\graphicsdesign\\cubescenecomponent.h",
+            "c:\\users\\s258033\\documents\\unreal projects\\graphicsdesign\\intermediate\\build\\win64\\unrealeditor\\inc\\graphicsdesign\\uht\\cubescenecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\nanitesceneproxy.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\rendering\\naniteresources.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\growonlyspanallocator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\rendercore\\public\\unifiedbuffer.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\rendercore\\public\\rendergraphresources.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\rhi\\public\\rhitransientresourceallocator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\rendercore\\public\\rendergraphparameter.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\rendercore\\public\\rendergraphtexturesubresource.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\rendercore\\public\\rendergraphresources.inl",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\core\\public\\misc\\memoryreadstream.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\shaders\\shared\\nanitedefinitions.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\renderer\\public\\raytracinginstance.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\chaosvisualdebugger\\public\\datawrappers\\chaosvdparticledatawrapper.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\experimental\\chaosvisualdebugger\\public\\datawrappers\\chaosvdcollisiondatawrappers.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\chaosvdruntime\\uht\\chaosvdcollisiondatawrappers.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\chaosvdruntime\\uht\\chaosvdparticledatawrapper.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

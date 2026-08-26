@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\s258033\\documents\\unreal projects\\graphicsdesign\\intermediate\\build\\win64\\unrealeditor\\inc\\graphicsdesign\\uht\\dissolvinganimatedscenecomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\s258033\\documents\\unreal projects\\graphicsdesign\\intermediate\\build\\win64\\x64\\graphicsdesigneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\s258033\\documents\\unreal projects\\graphicsdesign\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\graphicsdesign\\definitions.graphicsdesign.h",
+            "c:\\users\\s258033\\documents\\unreal projects\\graphicsdesign\\source\\graphicsdesign\\dissolvinganimatedscenecomponent.h",
+            "c:\\users\\s258033\\documents\\unreal projects\\graphicsdesign\\intermediate\\build\\win64\\unrealeditor\\inc\\graphicsdesign\\uht\\dissolvinganimatedscenecomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
