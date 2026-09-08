@@ -49,5 +49,5 @@ private:
 	TObjectPtr<class UMaterialInstanceDynamic> DynamicDissolveMaterial;
 	
 	bool bIsDissolving = false;
-		
+	
 };
